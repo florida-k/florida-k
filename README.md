@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome, I'm Florida 👩🏻‍💻
+I'm a first-year computer science student at the University of Florida.
+
+
 
 <!--
 **florida-k/florida-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
