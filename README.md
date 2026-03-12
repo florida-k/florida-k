@@ -3,9 +3,9 @@ I'm a first-year computer science student at the University of Florida.
 
 
 ### 💬 Ask me about projects or collaborating @
-Email: florida.kawmi@ufl.edu
+LinkedIn: [Florida Kawmi](https://www.linkedin.com/in/florida-k/)
 
-LinkedIn: [florida kawmi](https://www.linkedin.com/in/florida-k/)
+Email: florida.kawmi@ufl.edu
 
 
 ### 🍇 Fun Fact
