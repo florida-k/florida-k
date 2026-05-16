@@ -1,5 +1,5 @@
 ## Welcome, I'm Florida 👩🏻‍💻
-I'm a first-year computer science student at the University of Florida.
+I'm a second-year computer science student at the University of Florida.
 
 
 ### 💬 Ask me about projects or collaborating @
